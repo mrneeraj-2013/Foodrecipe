@@ -1,2 +1,2 @@
 # Foodrecipe
-afoodrecipes.netlify.app
+https://afoodrecipes.netlify.app/
